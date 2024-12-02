@@ -1,4 +1,4 @@
-Usuario e senha definidos (Para a alteração destes, alterar na classe Conector):
+Usuario e senha definidos (Para a alteração destes, alterar na classe Conexao):
 
 user: root
 
